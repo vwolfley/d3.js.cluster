@@ -2,7 +2,8 @@
 
 var diameter = 860,
     format = d3.format(",d"),
-    color = d3.scale.category20c();
+    // color = d3.scale.category20c();
+    color = d3.scale.category10();
 
 var bubble = d3.layout.pack()
     .sort(null)
@@ -29,16 +30,10 @@ d3.json("data/flare.json", function(error, root) {
 
   node.append("circle")
       .attr("r", function(d) { return d.r; })
-<<<<<<< HEAD
-      console.log(d.r);
-      .style("fill", function(d) { return color(d.packageName); });
-=======
       .style("fill", function(d) { return color(d.packageName); })
-      console.log("r");
->>>>>>> 251f8e4c8e4fdc5057d6a2c2bf88a3782821c0b1
 
   node.append("text")
-      .attr("dy", ".3em")
+      .attr("dy", ".2em")
       .style("text-anchor", "middle")
       .text(function(d) { return d.className.substring(0, d.r / 3); });
 });
