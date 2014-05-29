@@ -16,7 +16,7 @@ var svg = d3.select("body").append("svg")
     .attr("class", "bubble");
 
 
-d3.json("data/flare.json", function(error, root) {
+d3.json("data/sherwood.json", function(error, root) {
   var node = svg.selectAll(".node")
       .data(bubble.nodes(classes(root))
       .filter(function(d) { return !d.children; }))
