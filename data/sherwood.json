@@ -10,13 +10,13 @@
     "spouse1": "Kimberly",
     "spouse2": "Scott",
     "children": [
-        {"name": "Evelyn", "year": "1991", "num": "1", "sex": "F"},
-        {"name": "Kathleen", "year": "1991", "num": "2", "sex": "F"},
-        {"name": "Tanna", "year": "1992", "num": "4", "sex": "F"},
-        {"name": "Drew", "year": "1994", "num": "", "sex": "M"},
-        {"name": "Tara", "year": "1998", "num": "", "sex": "F"},
-        {"name": "Tacy", "year": "2001", "num": "", "sex": "F"},
-        {"name": "Mathew", "year": "2003", "num": "", "sex": "M"}
+        {"name": "Evelyn", "year": "1991", "num": "1", "sex": "F", "size": 23000},
+        {"name": "Kathleen", "year": "1991", "num": "2", "sex": "F", "size": 23000},
+        {"name": "Tanna", "year": "1992", "num": "4", "sex": "F", "size": 22000},
+        {"name": "Drew", "year": "1994", "num": "", "sex": "M", "size": 20000},
+        {"name": "Tara", "year": "1998", "num": "", "sex": "F", "size": 16000},
+        {"name": "Tacy", "year": "2001", "num": "", "sex": "F", "size": 13000},
+        {"name": "Mathew", "year": "2003", "num": "", "sex": "M", "size": 11000}
     ]
     },
     {
@@ -25,10 +25,10 @@
     "spouse1": "Kris",
     "spouse2": "Owen",
     "children": [
-        {"name": "Brock", "year": "1991", "num": "3", "sex": "M"},
-        {"name": "Lindsay", "year": "1994", "num": "", "sex": "F"},
-        {"name": "Brett", "year": "1997", "num": "", "sex": "M"},
-        {"name": "Rebecca", "year": "2004", "num": "", "sex": "F"}
+        {"name": "Brock", "year": "1991", "num": "3", "sex": "M", "size": 23000},
+        {"name": "Lindsay", "year": "1994", "num": "", "sex": "F", "size": 20000},
+        {"name": "Brett", "year": "1997", "num": "", "sex": "M", "size": 17000},
+        {"name": "Rebecca", "year": "2004", "num": "", "sex": "F", "size": 10000}
     ]
     },
     {
@@ -37,12 +37,12 @@
     "spouse1": "KOni",
     "spouse2": "Ron",
     "children": [
-        {"name": "Nathan", "year": "1996", "num": "", "sex": "M"},
-        {"name": "Spencer", "year": "1998", "num": "", "sex": "M"},
-        {"name": "Lauren", "year": "2001", "num": "", "sex": "F"},
-        {"name": "Forrest", "year": "2003", "num": "", "sex": "M"},
-        {"name": "Grant", "year": "2005", "num": "", "sex": "M"},
-        {"name": "Stewart", "year": "2012", "num": "", "sex": "M"}
+        {"name": "Nathan", "year": "1996", "num": "", "sex": "M", "size": 18000},
+        {"name": "Spencer", "year": "1998", "num": "", "sex": "M", "size": 16000},
+        {"name": "Lauren", "year": "2001", "num": "", "sex": "F", "size": 13000},
+        {"name": "Forrest", "year": "2003", "num": "", "sex": "M", "size": 11000},
+        {"name": "Grant", "year": "2005", "num": "", "sex": "M", "size": 9000},
+        {"name": "Stewart", "year": "2012", "num": "", "sex": "M", "size": 2000}
     ]
     },
     {
@@ -51,9 +51,9 @@
     "spouse1": "Kari",
     "spouse2": "Bryant",
     "children": [
-        {"name": "Madison", "year": "2001", "num": "", "sex": "F"},
-        {"name": "Maxwell", "year": "2002", "num": "", "sex": "M"},
-        {"name": "Maya", "year": "2004", "num": "", "sex": "F"}
+        {"name": "Madison", "year": "2001", "num": "", "sex": "F", "size": 13000},
+        {"name": "Maxwell", "year": "2002", "num": "", "sex": "M", "size": 12000},
+        {"name": "Maya", "year": "2004", "num": "", "sex": "F", "size": 10000}
     ]
     },
     {
@@ -62,11 +62,11 @@
     "spouse1": "Jeff",
     "spouse2": "Heather",
     "children": [
-        {"name": "Jackson", "year": "2002", "num": "", "sex": "M"},
-        {"name": "Carter", "year": "2004", "num": "", "sex": "M"},
-        {"name": "Kate", "year": "2006", "num": "", "sex": "F"},
-        {"name": "Ella", "year": "2007", "num": "", "sex": "F"},
-        {"name": "Nora", "year": "2013", "num": "", "sex": "F"}
+        {"name": "Jackson", "year": "2002", "num": "", "sex": "M", "size": 12000},
+        {"name": "Carter", "year": "2004", "num": "", "sex": "M", "size": 10000},
+        {"name": "Kate", "year": "2006", "num": "", "sex": "F", "size": 8000},
+        {"name": "Ella", "year": "2007", "num": "", "sex": "F", "size": 7000},
+        {"name": "Nora", "year": "2013", "num": "", "sex": "F", "size": 1000}
     ]
     },
     {
@@ -75,11 +75,11 @@
     "spouse1": "Kindy",
     "spouse2": "Vern",
     "children": [
-        {"name": "Elena", "year": "2001", "num": "", "sex": "F"},
-        {"name": "Natalie", "year": "2003", "num": "", "sex": "F"},
-        {"name": "Meghan", "year": "2005", "num": "", "sex": "F"},
-        {"name": "Vern", "year": "2007", "num": "", "sex": "M"},
-        {"name": "Benjamin", "year": "2008", "num": "", "sex": "M"}
+        {"name": "Elena", "year": "2001", "num": "", "sex": "F", "size": 13000},
+        {"name": "Natalie", "year": "2003", "num": "", "sex": "F", "size": 11000},
+        {"name": "Meghan", "year": "2005", "num": "", "sex": "F", "size": 9000},
+        {"name": "Vern", "year": "2007", "num": "", "sex": "M", "size": 7000},
+        {"name": "Benjamin", "year": "2008", "num": "", "sex": "M", "size": 6000}
     ]
     },
     {
@@ -88,9 +88,9 @@
     "spouse1": "Greg",
     "spouse2": "Nicolle",
     "children": [
-        {"name": "Clara", "year": "2007", "num": "", "sex": "F"},
-        {"name": "Sara Jane", "year": "2010", "num": "", "sex": "F"},
-        {"name": "Sylvie", "year": "2012", "num": "", "sex": "F"}
+        {"name": "Clara", "year": "2007", "num": "", "sex": "F", "size": 7000},
+        {"name": "Sara Jane", "year": "2010", "num": "", "sex": "F", "size": 4000},
+        {"name": "Sylvie", "year": "2012", "num": "", "sex": "F", "size": 2000}
     ]
     },
     {
@@ -99,12 +99,12 @@
     "spouse1": "Rob",
     "spouse2": "Jill",
     "children": [
-        {"name": "Taylor", "year": "2001", "num": "", "sex": "M"},
-        {"name": "Emilie", "year": "2003", "num": "", "sex": "F"},
-        {"name": "Brian", "year": "2006", "num": "", "sex": "M"},
-        {"name": "Caleb", "year": "2008", "num": "", "sex": "M"},
-        {"name": "Melody", "year": "2010", "num": "", "sex": "F"},
-        {"name": "Baby6", "year": "2014", "num": "", "sex": ""}
+        {"name": "Taylor", "year": "2001", "num": "", "sex": "M", "size": 13000},
+        {"name": "Emilie", "year": "2003", "num": "", "sex": "F", "size": 11000},
+        {"name": "Brian", "year": "2006", "num": "", "sex": "M", "size": 8000},
+        {"name": "Caleb", "year": "2008", "num": "", "sex": "M", "size": 6000},
+        {"name": "Melody", "year": "2010", "num": "", "sex": "F", "size": 4000},
+        {"name": "Baby6", "year": "2014", "num": "", "sex": "", "size": 0}
     ]
     },
     {
@@ -113,11 +113,11 @@
     "spouse1": "Karen",
     "spouse2": "Chris",
     "children": [
-        {"name": "William", "year": "2004", "num": "", "sex": "M"},
-        {"name": "Annmarie", "year": "2005", "num": "", "sex": "F"},
-        {"name": "Jeffrey", "year": "2007", "num": "", "sex": "M"},
-        {"name": "Jedadiah", "year": "2008", "num": "", "sex": "M"},
-        {"name": "Henry", "year": "2010", "num": "", "sex": "M"}
+        {"name": "William", "year": "2004", "num": "", "sex": "M", "size": 10000},
+        {"name": "Annmarie", "year": "2005", "num": "", "sex": "F", "size": 9000},
+        {"name": "Jeffrey", "year": "2007", "num": "", "sex": "M", "size": 7000},
+        {"name": "Jedadiah", "year": "2008", "num": "", "sex": "M", "size": 6000},
+        {"name": "Henry", "year": "2010", "num": "", "sex": "M", "size": 4000}
     ]
     }
 ]
