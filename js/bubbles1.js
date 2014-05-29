@@ -30,7 +30,7 @@ d3.json("data/flare.json", function(error, root) {
   node.append("circle")
       .attr("r", function(d) { return d.r; })
       .style("fill", function(d) { return color(d.packageName); })
-      console.log(d.r);
+      console.log("r");
 
   node.append("text")
       .attr("dy", ".3em")
