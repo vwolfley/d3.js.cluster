@@ -16,7 +16,7 @@ var svg = d3.select("body").append("svg")
     .attr("class", "bubble");
 
 
-d3.json("data/sherwood.json", function(error, root) {
+d3.json("data/flare.json", function(error, root) {
   var node = svg.selectAll(".node")
       .data(bubble.nodes(classes(root))
       .filter(function(d) { return !d.children; }))
@@ -29,8 +29,13 @@ d3.json("data/sherwood.json", function(error, root) {
 
   node.append("circle")
       .attr("r", function(d) { return d.r; })
+<<<<<<< HEAD
       console.log(d.r);
       .style("fill", function(d) { return color(d.packageName); });
+=======
+      .style("fill", function(d) { return color(d.packageName); })
+      console.log("r");
+>>>>>>> 251f8e4c8e4fdc5057d6a2c2bf88a3782821c0b1
 
   node.append("text")
       .attr("dy", ".3em")
