@@ -29,6 +29,7 @@ d3.json("data/sherwood.json", function(error, root) {
 
   node.append("circle")
       .attr("r", function(d) { return d.r; })
+      console.log(d.r);
       .style("fill", function(d) { return color(d.packageName); });
 
   node.append("text")
