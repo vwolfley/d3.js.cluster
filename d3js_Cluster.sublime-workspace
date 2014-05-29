@@ -1,0 +1,1043 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"con",
+				"console.log(message);"
+			],
+			[
+				"execute",
+				"executeIdentifyTask"
+			],
+			[
+				"distance",
+				"distanceToggleButton"
+			],
+			[
+				"basemap",
+				"BasemapToggle"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"nav",
+				"navbar-brand"
+			],
+			[
+				"grunt-contrib-css",
+				"grunt-contrib-cssmin"
+			],
+			[
+				"be",
+				"before"
+			],
+			[
+				"bor",
+				"border-style"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"fo",
+				"footer	Tag"
+			],
+			[
+				"att",
+				"attributes  (namespace)"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"opacity",
+				"setOpacity"
+			],
+			[
+				"visible",
+				"visibleLayers"
+			],
+			[
+				"iden",
+				"identifyTask  (variable)"
+			],
+			[
+				"me",
+				"small  (value)"
+			],
+			[
+				"Mulipoint",
+				"Multipoint"
+			],
+			[
+				"slideD",
+				"slideDuration  (variable)"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"newWindo",
+				"newWindowHeight"
+			],
+			[
+				"mx",
+				"max-height"
+			],
+			[
+				"if",
+				"iframe"
+			],
+			[
+				"fldObj",
+				"fldObj2"
+			],
+			[
+				"map",
+				"mapNotes"
+			],
+			[
+				"al",
+				"text-align"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"k-i",
+				"k-item"
+			],
+			[
+				"i",
+				"!important  (value)"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"st",
+				"strong	Tag"
+			],
+			[
+				"console",
+				"console.	console.log()"
+			],
+			[
+				"wit",
+				"width"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"clos",
+				"closeWindow"
+			],
+			[
+				"kendo",
+				".kendoWindow"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"feature",
+				"featureCount"
+			],
+			[
+				"b",
+				"button	Tag"
+			],
+			[
+				"selected",
+				"selectedFeatures"
+			],
+			[
+				"bo",
+				"bold"
+			],
+			[
+				"get",
+				"getElementsByName  (function)"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"document",
+				"documentElement"
+			],
+			[
+				"legendWindow",
+				"legendWindowDiv"
+			],
+			[
+				"doc",
+				"documentElement  (variable)"
+			],
+			[
+				"ti",
+				"title2"
+			],
+			[
+				"layersT",
+				"layersTOC"
+			],
+			[
+				"layers",
+				"layersTOC"
+			],
+			[
+				"margin-to",
+				"margin-top:   (property)"
+			],
+			[
+				"margin-l",
+				"margin-left:   (property)"
+			],
+			[
+				"k-",
+				"k-item"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"border-bo",
+				"border-bottom-color"
+			],
+			[
+				"border-top",
+				"border-top-color"
+			],
+			[
+				"border-",
+				"border-color:   (property)"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"newLayer",
+				"newLayerURL"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"top",
+				"margin-top"
+			],
+			[
+				"jqu",
+				"jquery"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"dojo",
+				"dojoColor"
+			],
+			[
+				"currColR",
+				"currColRampName"
+			],
+			[
+				"colRamp",
+				"colRampName"
+			],
+			[
+				"wi",
+				"width:   (property)"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"currColRa",
+				"currColRampName  (variable)"
+			],
+			[
+				"padding-",
+				"padding-top:   (property)"
+			],
+			[
+				"help",
+				"helplaunchbar"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"s",
+				"strong	Tag"
+			],
+			[
+				"font-f",
+				"font-family:   (property)"
+			],
+			[
+				"ser",
+				"appConfig.seriesColors"
+			],
+			[
+				"series",
+				"seriesColors"
+			],
+			[
+				"fn",
+				"font-size"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"fff",
+				"ffffff"
+			],
+			[
+				"k-wi",
+				"k-widget"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"p",
+				"padding-right"
+			],
+			[
+				"esri",
+				"esriGeocoderResult"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"getElemen",
+				"getElementById"
+			],
+			[
+				"toggleL",
+				"toggleLayer"
+			],
+			[
+				"t",
+				"table-row"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"toggle",
+				"toggleLeg"
+			],
+			[
+				"latLng",
+				"latLng"
+			],
+			[
+				"inf",
+				"InfoBubble"
+			],
+			[
+				"P",
+				"position"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"googl",
+				"googlecode"
+			],
+			[
+				"featureL",
+				"featureLayer2"
+			],
+			[
+				"search",
+				"searchfield"
+			],
+			[
+				"EXLU",
+				"EXLUlayer"
+			],
+			[
+				"geometry",
+				"geometryType"
+			],
+			[
+				"identify",
+				"identifyParams"
+			],
+			[
+				"about",
+				"aboutButton"
+			],
+			[
+				"Simple",
+				"SimpleLineSymbol"
+			],
+			[
+				"wh",
+				"width"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"out",
+				"outSR"
+			],
+			[
+				"se",
+				"searchfield"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"layer",
+				"layerInfos"
+			],
+			[
+				"ico",
+				"icons"
+			],
+			[
+				"icons",
+				"iconsid"
+			],
+			[
+				"inp",
+				"input"
+			],
+			[
+				"check",
+				"checked"
+			],
+			[
+				"ac",
+				"actionList"
+			],
+			[
+				"email",
+				"emailLink"
+			],
+			[
+				"emai",
+				"emailLink"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/JSHint/JSHint.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"list",
+				"Snippet: list"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: t",
+				"Package Control: Install Package"
+			],
+			[
+				"jsf",
+				"Preferences: JSLint Settings – Default"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"",
+				"Set Syntax: CSS"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 468.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Z/d3.js.cluster/.git/config",
+		"/Z/d3.js_example/data/wolfley.json",
+		"/Z/d3.js_example/README.md",
+		"/Z/d3.js_example/js/main.js",
+		"/Z/d3.js_example/.git/config",
+		"/Z/d3.js_example/index.html",
+		"/Z/d3.js_example/css/main.css",
+		"/Z/d3.js_example/CHANGELOG.md",
+		"/Z/d3.js_example/js/main_old1.js",
+		"/Z/d3.js_example/js/_main.js",
+		"/C/Users/vwolfley/Desktop/index.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/views/measure.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/views/definitions.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/views/about.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/views/legalDisclaimer.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/js/main.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/README.md",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/humans.txt",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/package.json",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/views/about",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/index.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/css/main.css",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/Gruntfile.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/CHANGELOG.md",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/css/bootstrapmap.css",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/js/config.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/js/vendor/bootstrapmap.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/app/resources/css/normalize.css",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/app/model/main.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/app/views/definitions.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/app/resources/css/main.css",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/config.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/app/views/legalDisclaimer.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/app/views/helpTool.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/app/views/helpContent.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/app/views/help.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/deploy/_old/build_2.2.3/index.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/deploy/build_2.2.4/index.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/vendor/bootstrapmap.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/robots.txt",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/app/resources/css/bootstrapmap.css",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/app/resources/css/bootstrapmap (2).css",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/node_modules/jshint-stylish-ex/stylish.js",
+		"/C/Users/vwolfley/AppData/Roaming/Sublime Text 2/Packages/User/JavaScript.sublime-settings",
+		"/C/Users/vwolfley/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/vwolfley/AppData/Roaming/Sublime Text 2/Packages/User/CSS.sublime-settings",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/deploy/build/main.min.css",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/deploy/build/normalize.css",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/deploy/build/main.min.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/.git/COMMIT_EDITMSG",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/wickenburg_project/package.jason",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/deploy/build_2.2.1/app/resources/css/main.css",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/deploy/build_2.2.1/index.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/deploy/build_2.2.1/humans.txt",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/deploy/build_2.2.1/app/views/help.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/deploy/build_2.2.1/app/model/main.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/deploy/build_2.2.1/docs/documentation.txt",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/deploy/build_2.2.1/app/resources/css/bootstrapmap.css",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/deploy/build_2.2.1/app/views/definitions.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/deploy/build_2.2.1/index - Copy.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/deploy/build_2.2.1/app/resources/css/bootstrap.min.css",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/deploy/build_2.2.1/app/views/legalDisclaimer.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Tools/FindExent2/index.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/deploy/build_2.2.1/config.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/deploy/build_2.2.0/vendor/bootstrapmap.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/deploy/build_2.2.0/app/resources/css/bootstrapmap.css",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/deploy/build_2.2.0/docs/documentation.txt",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Connect60plus/deploy/build_working/js/main.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/deploy/build_2.2.0/app/vms/geoCode-vm.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/deploy/build_2.2.0/app/model/main.js",
+		"/C/Users/vwolfley/AppData/Roaming/Sublime Text 2/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/C/Users/vwolfley/AppData/Roaming/Sublime Text 2/Packages/User/list.sublime-snippet",
+		"/C/Users/vwolfley/AppData/Roaming/Sublime Text 2/Packages/User/Emmet.sublime-settings",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/deploy/build_2.2.0/app/model/main1.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Demographics/deploy/_old/justin_rebuild/config.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/deploy/build_2.2.0/index.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/deploy/index.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/deploy/build_2.2.0/config.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/deploy/build_2.2.0/app/resources/css/main.css",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/deploy/build_2.2.0/humans.txt",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/deploy/build_2.2.0/app/resources/css/pygments-manni.css",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/deploy/build_2.2.0/app/resources/css/docs.css",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/deploy/build_2.2.0/documentation.txt",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/deploy/build_2.1.1/index.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/deploy/build_2.1.1/config.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/deploy/build_2.1.1/404.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/deploy/build_2.1.1/documentation.txt",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/deploy/build_2.1.1/humans.txt",
+		"//FASERV4/InfoSvcs/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/deploy/build_2.1.1/css/main.css",
+		"//FASERV4/InfoSvcs/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/deploy/build_2.1.1/index.html",
+		"//FASERV4/InfoSvcs/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/deploy/build_2.1.1/js/main.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/deploy/bootstrap_map/css/bootstrap.css",
+		"/C/Users/vwolfley/AppData/Roaming/Sublime Text 2/Packages/User/JavascriptBeautify.sublime-settings",
+		"/C/Users/vwolfley/AppData/Roaming/Sublime Text 2/Packages/Javascript Beautify/JavascriptBeautify.sublime-settings",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/deploy/boot1/index.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/deploy/bootstrap_map/config.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/deploy/bootstrap_map/config",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/deploy/bootstrap_map/css/docs.css",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/deploy/bootstrap_map/bootstrap_v3/docs-assets/css/docs.css",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/deploy/bootstrap_map/js/main.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/deploy/bootstrap_map/bootstrap_v3/docs-assets/js/uglify.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/magSecurity/config.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Demographics/deploy/build_working/app/vm/social-vm.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Demographics/deploy/build_working/app/views/social-view.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Demographics/deploy/build_working/index.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Demographics/deploy/build_working/app/resources/css/main.css",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Demographics/deploy/build_working/humans.txt",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Demographics/deploy/build_working/app/vm/demographic-vm.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Demographics/deploy/build_working/app/vm/queryBuilderTwo-vm.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Demographics/deploy/build_working/app/views/queryBuilderTwo-view.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Demographics/deploy/build_working/app/vm/panel-vm.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Demographics/deploy/build_working/app/vm/legend-vm.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Demographics/deploy/build_working/app/vm/colorRamp-vm.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Demographics/deploy/build_working/app/vm/cbr-vm.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Demographics/deploy/build_working/app/views/print-view.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Demographics/deploy/build_working/app/vm/classificationFactory-vm.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Demographics/deploy/build_working/app/vm/help-vm.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Demographics/deploy/build_working/app/views/cbr-view.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Demographics/deploy/build_working/app/views/classBreaks-view.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Demographics/deploy/build_working/app/resources/css/normalize.css",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Demographics/deploy/build_working/app/models/map-model.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Demographics/deploy/build_working/config.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Demographics/deploy/build_working/app/config/demographicConfig.js",
+		"/Z/New folder/LifeSizer_files/view-78abf3872f4771e598263fa2d41ae932.js",
+		"/D/CodeAcadamy.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Demographics/deploy/build_working/app/views/queryBuilderHelp-view.html",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Demographics/deploy/build_working/app/vm/print-vm.js",
+		"/I/Projects/ArcGIS Server/10.2/javascript_apps/Demographics/deploy/build_working/app/views/legendHelp-view.html"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"error",
+			"getData",
+			"svg",
+			"defModal",
+			"HomeButton",
+			"scroll",
+			"views",
+			"img",
+			"scroll",
+			"contents",
+			"font-size",
+			"simpleGeo",
+			"geosearch",
+			"geo",
+			"identifyHandler",
+			"console.log",
+			"map.centerAndZoom",
+			"sym",
+			"fade",
+			"helpModal",
+			"close",
+			"help",
+			"helpModal",
+			"helpModel",
+			"clickHandler",
+			"contentsOpen",
+			"legend",
+			"legendDiv",
+			"map",
+			"toggle",
+			"actions",
+			"title",
+			"popup",
+			"'",
+			"#myModalLabel",
+			"myModalLabel",
+			"my",
+			"alt",
+			"townLogo",
+			"town",
+			":",
+			"legal",
+			"toggle",
+			"load",
+			"Mouse",
+			"scroll",
+			"tocLayers",
+			"legendLayers",
+			"mapReady",
+			"dojo",
+			"map",
+			"sym",
+			"on(",
+			"slider",
+			"@media",
+			".navbar-form",
+			"@media",
+			"navbar-form ",
+			"url",
+			"size",
+			"image",
+			"https",
+			"http",
+			"min-height",
+			"input",
+			"mapTitle",
+			"custom",
+			"custom breaks",
+			"iframe",
+			"LocateButton",
+			"locate",
+			"fCount1",
+			"fldobj",
+			"var win",
+			"win.open();",
+			"Get the window and open it",
+			".k-window-title",
+			"#organizer",
+			"self.windowTitle",
+			"results",
+			"dpi",
+			"window",
+			"drop",
+			"panel",
+			"drop",
+			"window",
+			"cbr",
+			"org",
+			"if",
+			".magLogo",
+			"img",
+			"magLogo",
+			"logo",
+			"#magLogo",
+			"mag",
+			"panel",
+			"home",
+			"url",
+			"home",
+			"communityName",
+			"place",
+			"cat",
+			"===",
+			"place names",
+			"American Community Survey",
+			"American Community Survey 2007 - 2011",
+			"self.groupedItems",
+			"legend",
+			"chart legend",
+			"fieldCategory",
+			"?",
+			"li",
+			"k-widget",
+			"k-w",
+			"class",
+			"pdf",
+			"excel",
+			"style",
+			"k-splitbar",
+			"tab",
+			"tam",
+			"dem",
+			"chart",
+			"numFeatures",
+			"fcount",
+			"fcount1",
+			"fcount2",
+			"query"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"measureOpen",
+			"mTool",
+			"\"",
+			"",
+			"legendLayers",
+			"tocLayers",
+			"http",
+			"https",
+			"panel",
+			"American Community Survey 2008 - 2012",
+			"Selected Block Groups",
+			"#",
+			"geo.azmag.gov",
+			"v2012",
+			"li",
+			"bgcolor=\"\"",
+			"#D8D8D8",
+			"bgcolor=\"\"",
+			"#D8D8D8",
+			"bgcolor=\"\"",
+			"#D8D8D8",
+			"bgcolor=\"\"",
+			"#D8D8D8",
+			"bgcolor=\"\"",
+			"#D8D8D8",
+			"bgcolor=\"\"",
+			"#D8D8D8",
+			"bgcolor=\"\"",
+			"#D8D8D8",
+			"bli",
+			"#D8D8D8",
+			"bgcolor=\"\"",
+			"#D8D8D8",
+			"bgcolor=\"\"",
+			"#D8D8D8",
+			"bgcolor=\"\"",
+			"#D8D8D8",
+			"bgcolor=\"\"",
+			"#D8D8D8",
+			"bgcolor=\"\"",
+			"#D8D8D8",
+			"bgcolor=\"\"",
+			"#D8D8D8",
+			"bgcolor=\"\"",
+			"#D8D8D8",
+			"bgcolor=\"\"",
+			"#D8D8D8",
+			"bgcolor=\"\"",
+			"#D8D8D8",
+			"bgcolor=\"\"",
+			"#D8D8D8",
+			"bgcolor=\"\"",
+			"#D8D8D8",
+			"bgcolor=\"\"",
+			"#D8D8D8",
+			"bgcolor=\"\"",
+			"#D8D8D8",
+			"bgcolor=\"\"",
+			"#D8D8D8",
+			"bgcolor=\"\"",
+			"#D8D8D8",
+			"bgcolor=\"\"",
+			"#D8D8D8",
+			"bgcolor=\"\"",
+			"#D8D8D8",
+			"bgcolor=\"\"",
+			"#D8D8D8",
+			"<tr bgcolor=\"\">",
+			"<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">",
+			"<tr style=\"text-align:center;font-weight:bold;background:#a8a8a8;\">",
+			"<tr style=\"\">",
+			"<tr style=\"text-align:center;font-weight:bold; background:#a8a8a8;\">",
+			"<tr style=\"text-align:center;font-weight:bold; background:#a8a8a8\">",
+			"<tr style=\"text-align:center;font-weight:bold; background:a8a8a8\">",
+			"<name>",
+			"#a8a8a8",
+			"<tr style=\"text-align:center;font-weight:bold\">",
+			"<tr>",
+			"<name style=\"text-align:center;background:#A8A8A8\">",
+			"</li>",
+			"<li>",
+			"li",
+			"65"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 63.0
+	},
+	"output.git":
+	{
+		"height": 359.0
+	},
+	"output.jslint_result_view":
+	{
+		"height": 239.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 148.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"humans.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/I/Projects/ArcGIS Server/10.2/javascript_apps/Wickenburg/deploy/build_working/WickenburgViewer.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 252.0,
+	"status_bar_visible": true
+}
