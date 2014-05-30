@@ -37,7 +37,7 @@ var svg = d3.select("body").append("svg")
 
 var circle = svg.selectAll("circle")
     .data(nodes)
-  .enter().append("circle")
+    .enter().append("circle")
     .attr("r", function(d) { return d.radius; })
     .style("fill", function(d) { return color(d.cluster); })
     .call(force.drag);

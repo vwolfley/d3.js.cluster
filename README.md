@@ -20,6 +20,7 @@ A detailed list of the changes and fixes in each version update can be found in 
 
 * [D3js] (http://d3js.org/) - D3 Data-Driven Documents
 * [mbostock] (http://bl.ocks.org/mbostock) - examples
+* [More Examples -1,000] (http://techslides.com/over-1000-d3-js-examples-and-demos/) - Over 1000 Examples & Demos
 * [Dashing D3] (https://www.dashingd3js.com/) - Tutorials
 * [delimited Data Visualization] (http://www.delimited.io/) - blog examples
 * [D3 Workshop] (http://bost.ocks.org/mike/d3/workshop/#0) - slide show

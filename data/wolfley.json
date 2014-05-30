@@ -10,11 +10,11 @@
     "spouse1": "Vern",
     "spouse2": "Kindy",
     "children": [
-        {"name": "Elena", "year": "2001", "num": "1", "sex": "F"},
-        {"name": "Natalie", "year": "2003", "num": "3", "sex": "F"},
-        {"name": "Meghan", "year": "2005", "num": "6", "sex": "F"},
-        {"name": "Vern", "year": "2007", "num": "8", "sex": "M"},
-        {"name": "Benjamin", "year": "2008", "num": "11", "sex": "M"}
+        {"name": "Elena", "year": "2001", "age": 13, "num": "1", "sex": "F"},
+        {"name": "Natalie", "year": "2003", "age": 11, "num": "3", "sex": "F"},
+        {"name": "Meghan", "year": "2005", "age": 9, "num": "6", "sex": "F"},
+        {"name": "Vern", "year": "2007", "age": 7, "num": "8", "sex": "M"},
+        {"name": "Benjamin", "year": "2008", "age": 6, "num": "11", "sex": "M"}
     ]
     },
     {
@@ -23,7 +23,7 @@
     "spouse1": "Dennis",
     "spouse2": "Kena",
     "children": [
-        {"name": "Baby1", "year": "2014", "num": "23", "sex": "F"}
+        {"name": "Baby1", "year": "2014", "age": 0, "num": "23", "sex": "F"}
     ]
     },
     {
@@ -32,10 +32,10 @@
     "spouse1": "Daniel",
     "spouse2": "Joyce",
     "children": [
-        {"name": "Charlotte", "year": "2008", "num": "10", "sex": "F"},
-        {"name": "Audrey", "year": "2011", "num": "17", "sex": "F"},
-        {"name": "Carter", "year": "2013", "num": "21", "sex": "M"},
-        {"name": "Ethan", "year": "2013", "num": "22", "sex": "M"}
+        {"name": "Charlotte", "year": "2008", "age": 6, "num": "10", "sex": "F"},
+        {"name": "Audrey", "year": "2011", "age": 3, "num": "17", "sex": "F"},
+        {"name": "Carter", "year": "2013", "age": 1, "num": "21", "sex": "M"},
+        {"name": "Ethan", "year": "2013", "age": 1, "num": "22", "sex": "M"}
     ]
     },
     {
@@ -44,11 +44,11 @@
     "spouse1": "Sara",
     "spouse2": "Doug",
     "children": [
-        {"name": "Warren", "year": "2003", "num": "2", "sex": "M"},
-        {"name": "Clarissa", "year": "2005", "num": "5", "sex": "F"},
-        {"name": "Isabelle", "year": "2007", "num": "9", "sex": "F"},
-        {"name": "Henry", "year": "2010", "num": "13", "sex": "M"},
-        {"name": "Lydia", "year": "2010", "num": "14", "sex": "F"}
+        {"name": "Warren", "year": "2003", "age": 11, "num": "2", "sex": "M"},
+        {"name": "Clarissa", "year": "2005", "age": 9, "num": "5", "sex": "F"},
+        {"name": "Isabelle", "year": "2007", "age": 7, "num": "9", "sex": "F"},
+        {"name": "Henry", "year": "2010", "age": 4, "num": "13", "sex": "M"},
+        {"name": "Lydia", "year": "2010", "age": 4, "num": "14", "sex": "F"}
     ]
     },
     {
@@ -57,10 +57,10 @@
     "spouse1": "Anna",
     "spouse2": "Alex",
     "children": [
-        {"name": "Olivia", "year": "2004", "num": "4", "sex": "F"},
-        {"name": "Abigail", "year": "2006", "num": "7", "sex": "F"},
-        {"name": "Owen", "year": "2009", "num": "12", "sex": "M"},
-        {"name": "Tait", "year": "2010", "num": "15", "sex": "M"}
+        {"name": "Olivia", "year": "2004", "age": 10, "num": "4", "sex": "F"},
+        {"name": "Abigail", "year": "2006", "age": 8, "num": "7", "sex": "F"},
+        {"name": "Owen", "year": "2009", "age": 5, "num": "12", "sex": "M"},
+        {"name": "Tait", "year": "2010", "age": 4, "num": "15", "sex": "M"}
     ]
     },
     {
@@ -69,8 +69,8 @@
     "spouse1": "Aaron",
     "spouse2": "Chelsea",
     "children": [
-        {"name": "Samual", "year": "2011", "num": "18", "sex": "M"},
-        {"name": "Lucy", "year": "2013", "num": "19", "sex": "F"}
+        {"name": "Samual", "year": "2011", "age": 3, "num": "18", "sex": "M"},
+        {"name": "Lucy", "year": "2013", "age": 1, "num": "19", "sex": "F"}
     ]
     },
     {
@@ -79,8 +79,8 @@
     "spouse1": "Ammon",
     "spouse2": "Emilee",
     "children": [
-        {"name": "Wes", "year": "2011", "num": "16", "sex": "M"},
-        {"name": "Olive", "year": "2013", "num": "20", "sex": "F"}
+        {"name": "Wes", "year": "2011", "age": 3, "num": "16", "sex": "M"},
+        {"name": "Olive", "year": "2013", "age": 1, "num": "20", "sex": "F"}
     ]
     }
 ]
